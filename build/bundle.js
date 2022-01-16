@@ -688,7 +688,7 @@ var app = (function () {
     			t77 = space();
     			h30 = element("h3");
     			t78 = text(/*score*/ ctx[0]);
-    			t79 = text("/20");
+    			t79 = text("/23");
     			t80 = space();
     			div40 = element("div");
     			div39 = element("div");
@@ -1392,7 +1392,7 @@ var app = (function () {
     	};
 
     	const click_handler_19 = () => {
-    		changeGlobalState("sfratio", 9);
+    		changeGlobalState("sfratio", 10);
     	};
 
     	$$self.$$set = $$props => {
